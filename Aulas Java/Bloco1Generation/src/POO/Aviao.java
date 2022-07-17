@@ -27,7 +27,7 @@ public class Aviao {
 	
 	public void PassageirosSentados()
 	{
-		if(this.pouso=true)
+		if(this.pouso=false)
 			System.out.println("Passageires sentades...");
 		else
 			this.pouso=true;
