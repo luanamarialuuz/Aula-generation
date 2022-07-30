@@ -36,7 +36,7 @@ public class TesteAnimal {
 			String nome = leia.next();
 			System.out.println("Quantos anos seu cavalo tem?");
 			int idade = leia.nextInt();
-			System.out.println("Essa é legal! Qual som seu cavalo emite?");
+			System.out.println("Qual som seu cavalo emite?");
 			String som = leia.next();
 			System.out.println("--------------------------");
 			cavalo.Nome(nome);
